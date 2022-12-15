@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Cupcake",
-    "slug": "Cupcake",
+    "slug": "cupcake",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d2a24f41-5cc8-4a92-9028-e1775f8e3615"
+      }
+    },
+    "owner": "nicholas_moreland"
   }
 }
